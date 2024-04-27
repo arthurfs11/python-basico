@@ -1,0 +1,21 @@
+- O que é Python? 
+    r.: Python é uma linguagem de programação que foi criada no final dos anos 80, por Guido van Rossum.
+
+- O que diferencia o Python? 
+    r.: A linguagem de programação Python é conhecida mundialmente por ser uma linguagem completa e muito simples de ser utilizada. 
+
+- O que posso fazer com Python? 
+    r.: Com Python é possível criar diversas tecnologias, sendo as mais comuns: 
+        - Ciência de Dados:
+            - Criar painéis de KPI (key performance indicator), com gráficos, métricas e visualizações de informações empresariais, 
+            que a empresa pode utilizar para acompanhar produção, tomar decisões estratégicas e uma infinidade de coisas mais...
+        - Automação de Processos: 
+            - Com Python, é possível criar automação de processos (RPA) de uma forma simples e intuitiva, para otimizar processos, desonerar o capital humano,
+            e alavancar a produtividade com tecnologia.
+        - Desenvolvimento WEB: 
+            - Com Python, também é possível substituir tecnologias como HTML, CSS e JavaScript, criando sites personalizados e sistemas baseados em interfaces gráficas WEB. 
+        - Machine Learning e Inteligência Artificial: 
+            - Também existem formas de criar algoritmos em Python que trabalhem com aprendizado constante para atuar com modelos empresariais, de dados, negócios, entre outros.
+
+- Como é o mercado de Python? 
+    r.: Segundo uma pesquisa realizada no google em 27/04/2022, existem mais de 44.000 vagas de Desenvolvimento em Python abertas apenas no LinkedIn. 
